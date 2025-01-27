@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDK_01.01_Lesson-10", "MDK_01.01_Lesson-10\MDK_01.01_Lesson-10.csproj", "{D9A99AF9-9A99-4674-BE8A-EB3601448D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDK_01.01_Lesson-10 (2)", "MDK_01.01_Lesson-10 (2)\MDK_01.01_Lesson-10 (2).csproj", "{FB103473-EA53-4479-B9FC-05A72A04416C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A99AF9-9A99-4674-BE8A-EB3601448D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A99AF9-9A99-4674-BE8A-EB3601448D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A99AF9-9A99-4674-BE8A-EB3601448D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A99AF9-9A99-4674-BE8A-EB3601448D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB103473-EA53-4479-B9FC-05A72A04416C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB103473-EA53-4479-B9FC-05A72A04416C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB103473-EA53-4479-B9FC-05A72A04416C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB103473-EA53-4479-B9FC-05A72A04416C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
